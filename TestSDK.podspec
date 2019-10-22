@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'TestSDK'
+  s.name             = 'JWTestSDK'
   s.version          = '0.1.0'
   s.summary          = '测试SDK的部署'
 
