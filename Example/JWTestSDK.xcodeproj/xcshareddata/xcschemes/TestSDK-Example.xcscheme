@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "TestSDK_Example.app"
-               BlueprintName = "TestSDK_Example"
-               ReferencedContainer = "container:TestSDK.xcodeproj">
+               BuildableName = "JWTestSDK_Example.app"
+               BlueprintName = "JWTestSDK_Example"
+               ReferencedContainer = "container:JWTestSDK.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "TestSDK_Tests.xctest"
-               BlueprintName = "TestSDK_Tests"
-               ReferencedContainer = "container:TestSDK.xcodeproj">
+               BuildableName = "JWTestSDK_Tests.xctest"
+               BlueprintName = "JWTestSDK_Tests"
+               ReferencedContainer = "container:JWTestSDK.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "TestSDK_Example.app"
-            BlueprintName = "TestSDK_Example"
-            ReferencedContainer = "container:TestSDK.xcodeproj">
+            BuildableName = "JWTestSDK_Example.app"
+            BlueprintName = "JWTestSDK_Example"
+            ReferencedContainer = "container:JWTestSDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "TestSDK_Example.app"
-            BlueprintName = "TestSDK_Example"
-            ReferencedContainer = "container:TestSDK.xcodeproj">
+            BuildableName = "JWTestSDK_Example.app"
+            BlueprintName = "JWTestSDK_Example"
+            ReferencedContainer = "container:JWTestSDK.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -85,9 +85,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "TestSDK_Example.app"
-            BlueprintName = "TestSDK_Example"
-            ReferencedContainer = "container:TestSDK.xcodeproj">
+            BuildableName = "JWTestSDK_Example.app"
+            BlueprintName = "JWTestSDK_Example"
+            ReferencedContainer = "container:JWTestSDK.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
